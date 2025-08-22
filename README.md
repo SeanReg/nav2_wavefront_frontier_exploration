@@ -18,7 +18,7 @@
 
 ## Building
 
-For basic/general build instructions follow this tutorial: https://index.ros.org/doc/ros2/Tutorials/Writing-A-Simple-Py-Publisher-And-Subscriber/
+For basic/general build instructions follow this tutorial: https://docs.ros.org/en/rolling/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html
 
 - git clone the project into your colcon workspace's "src" directory
 - In your colcon workspace root directory run:
@@ -39,5 +39,6 @@ Works with Nav2's Turtlebot Simulation: https://navigation.ros.org/getting_start
 Once the Turtlebot Simulation has launch, in a separate window run:
     
     ros2 run nav2_wfd explore
+
 
 
