@@ -4,7 +4,7 @@
   <name>nav2_wfd</name>
   <version>0.0.1</version>
   <description>Wavefront Frontier Detector for ROS2 Navigation2</description>
-  <maintainer email="">Sean Regan</maintainer>
+  <maintainer email="dev@mail.com">Sean Regan</maintainer>
   <license>MIT License</license>
 
   <test_depend>ament_copyright</test_depend>
